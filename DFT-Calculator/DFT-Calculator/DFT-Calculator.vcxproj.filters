@@ -15,47 +15,47 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\DFTCore.cpp">
+    <ClCompile Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\main.cpp">
+    <ClCompile Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\Signal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\Sample.cpp">
+    <ClCompile Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\Sample.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\Signal.cpp">
+    <ClCompile Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\DFTCore.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\DFTCore.h">
+    <ClInclude Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\DFTCore.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\Sample.h">
+    <ClInclude Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\Signal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\Signal.h">
+    <ClInclude Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\Sample.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\InputData1.txt">
+    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\InputData1.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\InputData1Shift30.txt">
+    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\InputData1Shift30.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\InputData13.txt.txt">
+    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\InputData13.txt.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\InputData13Shift30.txt">
+    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\InputData13Shift30.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\InputData123.txt">
+    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\InputData123.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\tetradei_Classwork\Coursework-take2\Coursework-take2\InputData123Shift30.txt">
+    <Text Include="..\..\..\..\..\..\Ilian%27s PC\source\repos\DFT-Calculator\DFT-Calculator\DFT-Calculator\InputData123Shift30.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
